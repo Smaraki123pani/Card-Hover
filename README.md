@@ -1,6 +1,6 @@
 # Card Hover
 
-A visually appealing **Card Hover Effect Project** built using **HTML, CSS, and JavaScript**. This project displays an image card, and when hovered over, it reveals additional content dynamically.
+A visually appealing **Card Hover Effect Project** built using **HTML and CSS**. This project displays an image card, and when hovered over, it reveals additional content dynamically.
 
 ## 🚀 Features
 
@@ -12,7 +12,6 @@ A visually appealing **Card Hover Effect Project** built using **HTML, CSS, and 
 
 - **HTML5** - Structure of the application
 - **CSS3** - Styling for hover effects and animations
-- **JavaScript (ES6+)** - Logic for interactive behavior
 
 ## 📸 Preview
 ![Screenshot-Card-Hover](https://github.com/user-attachments/assets/21c3552c-fc96-4614-aa8c-be86e2a3ef18)
@@ -23,7 +22,6 @@ A visually appealing **Card Hover Effect Project** built using **HTML, CSS, and 
 📁 Card-Hover/
  ├── 📄 index.html       # Main HTML file
  ├── 📄 style.css        # CSS file for styling
- ├── 📄 script.js        # JavaScript file for logic
  ├── 📁 images/          # Images
  ├── 📄 README.md        # Project documentation
 ```
